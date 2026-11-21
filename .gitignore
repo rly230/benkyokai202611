@@ -1,0 +1,26 @@
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Data (raw / preprocessed text)
+input/
+data/
+
+# Training outputs
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
